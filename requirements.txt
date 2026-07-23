@@ -1,0 +1,9 @@
+Here are all the required modules:
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+gradio
+jupyter
